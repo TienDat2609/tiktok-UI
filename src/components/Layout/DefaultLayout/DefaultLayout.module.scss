@@ -7,6 +7,7 @@
 .container{
     width: 100%;
     display: flex;
+    width: var(--default-layout-width);
 }
 .content{
     flex: 1;
